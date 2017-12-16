@@ -4,8 +4,6 @@ et du rechangement
 le commit 4
 le commit 5
 le commit 6
-<<<<<<< HEAD
 la branche master commit 8
-=======
 la branche commit 7
->>>>>>> uneBranche
+
